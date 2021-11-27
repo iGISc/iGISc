@@ -16,5 +16,5 @@ path to file
 Reading in extdata from package
 }
 \examples{
-read.csv(ex("sierra/sierraStations.csv"))
+ex("sierra/sierraStations.csv")
 }
