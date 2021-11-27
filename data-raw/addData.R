@@ -23,8 +23,7 @@ sierraStations<- read_csv("inst/extdata/sierra/sierraStations.csv")
 usethis::use_data(sierraStations, overwrite = TRUE)
 
 soilCO2_97<- read_csv("inst/extdata/marbles/soilCO2_97.csv") %>%
-  rename(TEMPC = `SOIL C`) %>%
-  select(SITE, DATE, TIME, TEMPC, `CO2%`)
+  select(SITE, DATE, TIME, SOIL_TEMP, CO2pct)
 usethis::use_data(soilCO2_97, overwrite = TRUE)
 
 tidy_eucoak<- read_csv("inst/extdata/eucoak/tidy_eucoak.csv")
