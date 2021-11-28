@@ -6,8 +6,8 @@
 #' @export
 #'
 #' @examples
-#' ex("sierra/sierraStations.csv")
+#' read.csv(ex("sierra/sierraStations.csv"))
 ex <- function(dta){
-  system.file("extdata",dta,package="iGIScData")
+  system.file("extdata",dta,package="igisci")
 }
 
