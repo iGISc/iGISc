@@ -25,6 +25,22 @@
 #' same as California Climate Normals, with county and geometry added
 "sierraClimate"
 
+#' Sierra monthly climate data
+#'
+#' Fewer variables than above
+#'
+#' @format A data frame with 82 entries and 7 variables selected and renamed \describe{
+#'   \item{NAME}{Station name}
+#'   \item{MONTH}{YYYYMM}
+#'   \item{ELEVATION}{Elevation in meters}
+#'   \item{LATITUDE}{Latitude in decimal degrees}
+#'   \item{LONGITUDE}{Longitude in decimal degrees}
+#'   \item{PRECIPITATION}{February Average Precipitation in mm}
+#'   \item{TEMPERATURE}{Febrary Average Temperature in degrees C}
+#' }
+#' @source \url{https://www.ncdc.noaa.gov/}
+"sierraData"
+
 #' Sierra February climate data
 #'
 #' Selection from SierraData to only include February data

@@ -13,6 +13,9 @@ usethis::use_data(sierraFeb, overwrite = TRUE)
 sierraClimate <- read_csv("inst/extdata/sierra/sierraClimate.csv")
 usethis::use_data(sierraClimate, overwrite=TRUE)
 
+sierraData <- read_csv("inst/extdata/sierra/sierraData.csv")
+usethis::use_data(sierraClimate, overwrite=TRUE)
+
 ConcentrationReport <- read_csv("inst/extdata/ConcentrationReport.csv")
 usethis::use_data(ConcentrationReport, overwrite = TRUE)
 
