@@ -16,7 +16,7 @@ usethis::use_data(sierraClimate, overwrite=TRUE)
 sierraData <- read_csv("inst/extdata/sierra/sierraData.csv")
 usethis::use_data(sierraData, overwrite=TRUE)
 
-ConcentrationReport <- read_csv("inst/extdata/ConcentrationReport.csv")
+ConcentrationReport <- read_csv("inst/extdata/litter/ConcentrationReport.csv")
 usethis::use_data(ConcentrationReport, overwrite = TRUE)
 
 sierraStations<- read_csv("inst/extdata/sierra/sierraStations.csv")
@@ -35,7 +35,7 @@ usethis::use_data(XSptsNDVI, overwrite = TRUE)
 eucoakrainfallrunoffTDR<- read_csv("inst/extdata/eucoak/eucoakrainfallrunoffTDR.csv")
 usethis::use_data(eucoakrainfallrunoffTDR, overwrite = TRUE)
 
-CA_ClimateNormals <- read_csv("inst/extdata/CA_ClimateNormals.csv")
+CA_ClimateNormals <- read_csv("inst/extdata/CA/CA_ClimateNormals.csv")
 usethis::use_data(CA_ClimateNormals, overwrite = TRUE)
 
 TRI_1987_CA <- read_csv("inst/extdata/TRI/TRI_1987_CA.csv")
