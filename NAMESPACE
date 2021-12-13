@@ -2,4 +2,5 @@
 
 export(MODISfire)
 export(ex)
+export(sierra)
 export(strsplit1)

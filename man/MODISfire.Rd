@@ -2,7 +2,7 @@
 % Please edit documentation in R/MODISfire.R
 \name{MODISfire}
 \alias{MODISfire}
-\title{MODIS fire}
+\title{MODIS fire Shiny app}
 \usage{
 MODISfire()
 }
@@ -10,7 +10,7 @@ MODISfire()
 
 }
 \description{
-MODIS fire
+MODIS fire Shiny app
 }
 \examples{
 MODISfire()
