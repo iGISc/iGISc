@@ -1,0 +1,123 @@
+place_name,country,x,y,elev_meter,nile
+"Upper Bashilo, B22",Ethiopia,39.357988,11.893684,3374,blue
+Bashilo Bridge 2,Ethiopia,39.298269,11.817408,3163,blue
+East Jeberana Goza 21,Ethiopia,39.228967,11.710293,2324,blue
+Bashilo Bridge 1,Ethiopia,39.020361,11.548984,1804,blue
+Bashilo Tributary 8,Ethiopia,38.672151,11.591601,1457,blue
+Bashilo Tributary 5,Ethiopia,38.644438,11.365596,1316,blue
+Bashilo R. x Blue Convergence,Ethiopia,38.474255,11.038986,1204,blue
+Samba Shet',Ethiopia,38.52055,10.917578,1190,blue
+Lake Victoria,Uganda,33.19664,0.44283,1160,white
+Debre Merk'u Alet Shet',Ethiopia,38.467562,10.54831,1128,blue
+Jamma R. x Blue Convergence,Ethiopia,38.33851,10.157915,1052,blue
+Tekeze Dam,Ethiopia,38.741694,13.348259,1000,black
+Kilinbo Shet',Ethiopia,38.03105,9.972291,997,blue
+Guder R. x Blue Convergence,Ethiopia,37.67131,9.863824,930,blue
+Fincha R. x Blue Convergence,Ethiopia,37.344662,10.00959,869,blue
+HWY 32 bridge,Ethiopia,37.012426,10.291906,804,blue
+Belimato Shet',Ethiopia,36.564622,10.366069,747,blue
+Lake Albert,Uganda,31.342149,2.257866,720,white
+South Denbon ,Ethiopia,36.380504,10.345131,716,blue
+South Sudan border,Uganda,32.034459,3.586311,700,white
+Halo Mukerba,Ethiopia,35.98297,10.14559,671,blue
+Dides R. x Blue Convergence,Ethiopia,35.683763,9.943552,627,blue
+Atbarah x Tekeze,Sudan,35.85131,14.34425,580,black
+Khashm El Girba Dam,Sudan,35.90679,14.92552,560,black
+Bejobasa,Ethiopia,35.329935,10.301022,591,blue
+Shogali,Ethiopia,35.160953,10.687798,552,blue
+Jonglei,South Sudan,31.41894,6.46585,520,white
+Tugogian,Ethiopia,35.198815,11.121181,520,blue
+Sudan x Ethiopia border,Ethiopia,34.969989,11.23259,495,blue
+Abu Shandi,Sudan,34.693005,11.342464,485,blue
+Upper Roseires Dam,Sudan,34.390336,11.696821,483,blue
+Lower Roseires Dam,Sudan,34.386731,11.798753,458,blue
+Mangangani,Sudan,34.36148,11.967549,446,blue
+Umm Barid,Sudan,34.35711,12.372201,442,blue
+Barankwa,Sudan,34.148901,12.757353,433,blue
+Al Jaza'ir,Sudan,33.961797,13.074023,430,blue
+Shallal,Sudan,33.726923,13.2971,425,blue
+Upper Sennar Dam,Sudan,33.636481,13.546225,423,blue
+Lower Sennar Dam,Sudan,33.63588,13.548812,411,blue
+Hilimi,Sudan,33.634773,13.658886,407,blue
+Abu Suqra,Sudan,33.634773,13.956702,398,blue
+Al Afna Forest [Fadhullah],Sudan,33.60885,14.216376,393,blue
+Shakaba,Sudan,33.465434,14.488237,389,blue
+Ganneb,Sudan,33.27535,14.839913,384.1,blue
+Kasambar,Sudan,33.169537,15.118147,384,blue
+Al Bageir,Sudan,32.768438,15.382506,380,blue
+White Nile x Nile,Sudan,32.493129,15.61464,373,main
+White x Nile,Sudan,32.593129,15.71464,373,white
+Blue x White Convergence,Sudan,32.507147,15.643876,373,main
+Blue x White ,Sudan,32.507147,15.643876,373,blue
+Eltomaniat,Sudan,32.554211,15.968178,373,main
+Wad al Basal,Sudan,32.608816,16.23219,367,main
+Wad Hamid,Sudan,32.830248,16.475903,363,main
+Hosh Bannaga,Sudan,33.328655,16.681529,354,main
+Hillat ed Darqab,Sudan,33.695828,16.938015,351,main
+Atbarah x Nile,Sudan,33.972025,17.678128,350,black
+Ageida,Sudan,33.731411,17.282413,347,main
+Atbarah,Sudan,33.970558,17.67976,344,main
+Berber,Sudan,33.984725,17.995956,341,main
+Gananita,Sudan,33.788879,18.354888,335,main
+Al Baqer,Sudan,33.632152,18.722077,323,main
+Kanisah Kurgus,Sudan,33.474207,19.229464,310,main
+Abu Hamad,Sudan,33.323313,19.529667,307,main
+Shamkhiya,Sudan,32.929735,19.469439,291,main
+El Heleiba,Sudan,32.657655,19.15951,284,main
+Merowe Resivoir,Sudan,32.3094,18.901848,281,main
+Upper Merowe Dam,Sudan,32.054959,18.670938,259,main
+Lower Merowe Dam,Sudan,32.051783,18.665734,249,main
+Merowe,Sudan,31.803401,18.470917,247,main
+Kanisah,Sudan,31.671761,18.264993,243,main
+Mansur Koti,Sudan,31.323855,18.049201,240,main
+Girra Barra,Sudan,31.052911,18.034889,237,main
+Old Dongola,Sudan,30.745266,18.198012,233,main
+Urbi,Sudan,30.557172,18.698231,227,main
+Dunqulah,Sudan,30.485329,19.144697,222,main
+Kerma Albeled,Sudan,30.485329,19.598321,215,main
+Wetlands,Sudan,30.306723,19.816701,205,main
+Arduan,Sudan,30.29597,19.938616,203,main
+Kokka,Sudan,30.585619,20.015424,200,main
+Abu Sari,Sudan,30.577993,20.280271,198,main
+Soleb,Sudan,30.339271,20.435019,195,main
+Koshah,Sudan,30.320361,20.778945,188,main
+Upper Lake Nassar,Sudan,30.581747,21.014401,179.6,main
+Souki,Sudan,30.656944,21.179746,179.5,main
+Semna,Sudan,30.955589,21.474949,179.4,main
+Wadi Halfa,Sudan,31.178578,21.661782,179.3,main
+Lake Nubia,Sudan,31.342289,21.997797,179.2,main
+Lake Nasser,Egypt,32.832821,23.176835,179.1,main
+Upper Aswan Dam,Egypt,32.885604,23.96412,179,main
+Lower Aswan Dam,Egypt,32.881957,23.973061,116,main
+Aswan,Egypt,32.889705,24.086151,86,main
+Nagaa Al Jami,Egypt,32.922381,24.451273,82,main
+Gebel el-Silsila,Egypt,32.9322,24.655647,81,main
+Edfo,Egypt,32.867192,24.945246,79,main
+Al Boseilah,Egypt,32.778728,25.119265,77,main
+Esna,Egypt,32.560432,25.29465,75,main
+Luxor,Egypt,32.626546,25.686421,66,main
+Qena,Egypt,32.633499,26.179182,65,main
+Nagaa Hammadi,Egypt,32.248408,26.087439,62,main
+Girga,Egypt,31.908801,26.344679,58,main
+Nidah,Egypt,31.71234,26.614212,54,main
+Jazirat Al Haridi,Egypt,31.523412,26.784611,52,main
+Abo Teeg,Egypt,31.314433,27.099398,50,main
+Sallam,Egypt,31.11631,27.231203,45,main
+Beni Shiqeir,Egypt,30.976569,27.369559,38,main
+Dayrout,Egypt,30.841954,27.554166,37,main
+Dayr Abu Hinnis,Egypt,30.898935,27.785596,36,main
+Beni Hasan,Egypt,30.862743,27.933838,35,main
+Samlout,Egypt,30.738267,28.279889,26,main
+Maghaghah,Egypt,30.853247,28.645071,24,main
+Harabshant,Egypt,30.926836,28.87664,23,main
+Beni Suef,Egypt,31.104188,29.061516,20,main
+Al Wasta,Egypt,31.21449,29.345611,19,main
+Al Ayat,Egypt,31.261379,29.519651,18,main
+Helwan,Egypt,31.292981,29.847942,17,main
+Giza,Egypt,31.220368,30.014048,15,main
+Cairo,Egypt,31.218657,30.049337,11,main
+Delta Convergence,Egypt,31.141706,30.171339,8,main
+Bani Salamah,Egypt,30.843868,30.324449,7,main
+Kafr el-Zayat,Egypt,30.811338,30.821317,3,main
+Desouk,Egypt,30.642071,31.125104,2,main
+Mediterranean Sea,Egypt,30.365377,31.467346,0,main
