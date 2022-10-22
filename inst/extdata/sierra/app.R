@@ -1,7 +1,6 @@
 library(shiny); library(sf); library(leaflet); library(rgdal)
 library(tidyverse); library(raster, exclude = "select")
-library(iGIScData)
-ex <- function(fnam){system.file("extdata",fnam,package="iGIScData")}
+library(igisci)
 
 sierraAllMonths <- read_csv(ex("sierra/Sierra2LassenData.csv")) %>%
   filter(MLY_PRCP_N >= 0) %>%
