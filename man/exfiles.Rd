@@ -13,5 +13,5 @@ tibble
 Listing contents of extdata from package
 }
 \examples{
-view(exfiles())
+View(exfiles())
 }

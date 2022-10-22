@@ -16,7 +16,7 @@ ex <- function(dta){
 #' @export
 #'
 #' @examples
-#' view(exfiles())
+#' View(exfiles())
 exfiles <- function(){
   library(dplyr)
   exfilesDF <- tribble(~dir,~file,~path,~type)

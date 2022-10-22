@@ -17,9 +17,9 @@ sierraVars <- sierraJan %>%        # Builds list of variables for map
 # Create basemap, using the weather station points to set the bounding dimensions
 
 co <- CA_counties
-ct <- st_read(ex("CA_places.shp"))
+ct <- st_read(ex("sierra/CA_places.shp"))
 ct$AREANAME_pad <- paste0(str_replace_all(ct$AREANAME, '[A-Za-z]',' '), ct$AREANAME)
-hillsh <- raster(ex("ca_hillsh_WGS84.tif"))
+hillsh <- raster(ex("CA/ca_hillsh_WGS84.tif"))
 hillshpts <- as.data.frame(rasterToPoints(hillsh))
 CAbasemap <- ggplot() +
   geom_raster(aes(x=x, y=y, fill=ca_hillsh_WGS84), data=hillshpts) + guides(fill = F) +
