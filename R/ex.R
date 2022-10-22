@@ -26,16 +26,16 @@ exfiles <- function(){
     len <- length(dsplit[[1]])
     dir <- dsplit[[1]][len]
     for(shp in list.files(d,pattern="*.shp$")){
-      exfilesDF <- bind_rows(exfilesDF,tribble(~dir,~file,~type,~path,dir,shp,paste0(dir,"/",shp),"shapefile"))
+      exfilesDF <- bind_rows(exfilesDF,tribble(~dir,~file,~path,~type,dir,shp,paste0(dir,"/",shp),"shapefile"))
     }
     for(tif in list.files(d,pattern="*.tif$")){
-      exfilesDF <- bind_rows(exfilesDF,tribble(~dir,~file,~type,~path,dir,tif,paste0(dir,"/",tif),"TIFF"))
+      exfilesDF <- bind_rows(exfilesDF,tribble(~dir,~file,~path,~type,dir,tif,paste0(dir,"/",tif),"TIFF"))
     }
     for(csv in list.files(d,pattern="*.csv")){
-      exfilesDF <- bind_rows(exfilesDF,tribble(~dir,~file,~type,~path,dir,csv,paste0(dir,"/",csv),"CSV"))
+      exfilesDF <- bind_rows(exfilesDF,tribble(~dir,~file,~path,~type,dir,csv,paste0(dir,"/",csv),"CSV"))
     }
     for(xls in list.files(d,pattern="*.xls")){
-      exfilesDF <- bind_rows(exfilesDF,tribble(~dir,~file,~type,~path,dir,xls,paste0(dir,"/",xls),"xls"))
+      exfilesDF <- bind_rows(exfilesDF,tribble(~dir,~file,~path,~type,dir,xls,paste0(dir,"/",xls),"xls"))
     }
   }
   exfilesDF
