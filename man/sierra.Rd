@@ -6,9 +6,6 @@
 \usage{
 sierra()
 }
-\value{
-
-}
 \description{
 sierra climate Shiny app
 }

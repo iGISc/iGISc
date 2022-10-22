@@ -6,9 +6,6 @@
 \usage{
 MODISfire()
 }
-\value{
-
-}
 \description{
 MODIS fire Shiny app
 }
