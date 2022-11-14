@@ -20,7 +20,7 @@ ex <- function(dta){
 exfiles <- function(){
   library(dplyr)
   exfilesDF <- tribble(~dir,~file,~path,~type)
-  for(d in list.dirs(system.file("extdata","",package="igisci"),recursive=F)){   # ex("")
+  for(d in list.dirs(system.file("extdata","",package="igisci"),recursive=F)){
     #print(d)
     dsplit <- strsplit(d,"/")
     len <- length(dsplit[[1]])
